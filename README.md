@@ -1,5 +1,6 @@
 # P3.B. Bluetooth
-## Objetivos
+## Objetivos:
+- Crear una conexión Bluetooth  entre dos dispositivos.
 ## Materiales: 
 - ESP32-S1
 - Aplicación movil: Serial Blurtooth Terminal
